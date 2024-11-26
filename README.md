@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Abigail! 👋
 
-<!--
-**abigailridley/abigailridley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a full-stack developer with a focus on React, Next.js, and Python. I love building interactive, responsive web applications and experimenting with new tools and technologies. 🌟
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Technologies
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frontend Frameworks:** React, Next.js, Tailwind CSS
+- **Backend & Tools:** Node.js, Flask, Express, AWS, MongoDB
+- **DevOps & Hosting:** Vercel, Netlify, Docker, Terraform, Kubernetes
+
+---
+
+## 🌱 Current Goals
+- Improving my DevOps knowledge with AWS and Kubernetes
+- Building portfolio projects with MongoDB and Express
+- Exploring Remix as an alternative to Next.js
+
+---
+
+## 📂 Featured Projects
+- **[Wanderlust Blog](https://wanderlust-blog.vercel.app):** A responsive travel blog built with Next.js.
+- **[Once Upon AI Time](https://github.com/abigail-code/once-upon-ai-time):** Collaborative story generation project using Flask and Python.
+- **[Weather Dashboard](https://github.com/abigail-code/weather-dashboard):** Weather and timezone app powered by OpenWeather API.
+
+---
+
+## 🌟 Fun Facts About Me
+- I recently moved to Edinburgh and love exploring its historic charm 🏰.
+- When I'm not coding, I'm into mushroom foraging, cats, and drag race 🎭.
+
+---
+
+## 📬 Let's Connect!
+- **Portfolio:** [abigail-portfolio.vercel.app](https://abigail-portfolio.vercel.app)
+- **LinkedIn:** [linkedin.com/in/abigail](https://linkedin.com/in/abigail)
+- **Email:** abigail@example.com

@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a focus on React, 
 
 ## 🌱 Current Goals
 - Improving my DevOps knowledge with AWS and Kubernetes
-- Building portfolio projects with MongoDB and Express
+- Building projects with MongoDB and Express data handling
 - Exploring Remix as an alternative to Next.js
 
 ---

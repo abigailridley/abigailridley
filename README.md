@@ -1,6 +1,6 @@
 # Hi there, I'm Abigail! 👋
 
-Welcome to my GitHub profile! I'm a full-stack developer with a focus on React, Next.js, and Python. I love building interactive, responsive web applications and experimenting with new tools and technologies. 🌟
+Welcome to my GitHub profile! I'm a full-stack developer with a focus on React, Next.js, and Python. I love building interactive, responsive web applications and experimenting with new tools and technologies. I am on the precipice of launching my coding career and you can see my projects below. 🌟
 
 ---
 
@@ -20,19 +20,32 @@ Welcome to my GitHub profile! I'm a full-stack developer with a focus on React, 
 ---
 
 ## 📂 Featured Projects
-- **[Wanderlust Blog](https://wanderlust-blog.vercel.app):** A responsive travel blog built with Next.js.
-- **[Once Upon AI Time](https://github.com/abigail-code/once-upon-ai-time):** Collaborative story generation project using Flask and Python.
-- **[Weather Dashboard](https://github.com/abigail-code/weather-dashboard):** Weather and timezone app powered by OpenWeather API.
 
+### Portfolio
+- 🌍 [Live Site](https://abigailridley.com)
+- 💻 [GitHub Repository](https://github.com/abigailridley/portfolio-nextjs)
+
+### Travel blog
+- 🌍 [Live Site](https://ridley.netlify.app)
+- 💻 [GitHub Repository](https://github.com/abigailridley/travel-blog-project)
+
+### Weather App
+- 🌤️ [Live Site](https://weather-app-5day-vanilla-javascript.netlify.app/)
+- 💻 [GitHub Repository] (https://github.com/abigailridley/Weather-App)
+
+### Once Upon AI Time
+- 💻 [GitHub Repository](https://github.com/JessamineCodes/Team3_StorytimeApp)
+  
 ---
 
 ## 🌟 Fun Facts About Me
-- I recently moved to Edinburgh and love exploring its historic charm 🏰.
+- I recently moved to Edinburgh and love exploring all the grey stone streets 🏰.
 - When I'm not coding, I'm into mushroom foraging, cats, and drag race 🎭.
+- I like yoga, and sea swimming but havent braved the Edinburgh waters yet! 🌊
 
 ---
 
 ## 📬 Let's Connect!
-- **Portfolio:** [abigail-portfolio.vercel.app](https://abigail-portfolio.vercel.app)
-- **LinkedIn:** [linkedin.com/in/abigail](https://linkedin.com/in/abigail)
-- **Email:** abigail@example.com
+- **Portfolio:** [abigailridley.com](https://www.abigailridley.com)
+- **LinkedIn:** [linkedin.com/in/ar-ridley](https://linkedin.com/in/ar-ridley)
+- **Email:** abigail-ridley@outlook.com
